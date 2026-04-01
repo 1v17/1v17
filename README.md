@@ -17,7 +17,7 @@ I'm a full-stack developer with a background in finance. I spent several years a
 
 ## Featured Projects
 
-### [PoemInABottle](https://github.com/1v17/PoemInABottle)
+### [Poem in A Bottle](https://github.com/1v17/PoemInABottle)
 A distributed poetry collaboration system built to compare two cloud architectures head-to-head: **EC2 + RabbitMQ + MySQL** vs. **Lambda + SQS + DynamoDB**. Empirically determined that Lambda becomes cost-effective above ~400K monthly requests. Implemented in Go and Java.
 
 > Architecture comparison · Distributed systems · Go · Java · AWS
