@@ -1,6 +1,6 @@
 # Hi, I'm J.Chen
 
-I'm a full-stack developer with a background in finance. I spent several years as a Financial Controller and Finance Business Partner before transitioning into software engineering. That combination shapes how I think about systems: I care about correctness, tradeoffs, and real-world impact.
+I'm a full-stack developer with a background in finance. I spent several years as a financial analyst before transitioning into software engineering. That combination shapes how I think about systems: I care about correctness, tradeoffs, and real-world impact.
 
 ---
 
